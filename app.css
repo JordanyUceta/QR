@@ -1,0 +1,47 @@
+
+body {
+    font-family: Outfit;
+    background-color: hsl(212, 45%, 89%);
+}
+
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+
+.imgqr {
+    border-radius: 15px;
+}
+
+b {
+    font-size: 20px;
+}
+
+h3 { 
+    text-align: center; 
+    
+}
+#center {
+
+    padding:10px; 
+    position: relative;
+    height: 470px;
+    width: 320px ;
+    display: flex;
+    flex-direction: column;
+    margin: auto; 
+    background-color: white;
+    border-radius: 15px;
+    justify-content: center;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.05);
+}
+
+p {
+    color: rgb(126, 126, 126);
+    font-size: 15px;
+    text-align: center;
+}
